@@ -1,0 +1,30 @@
+[1G[0K⠙[1G[0K[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m Unsupported engine {
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   package: [32m'goat-bot-v2@1.5.35'[39m,
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   required: { node: [32m'16.x'[39m, npm: [32m'>=7.0.0'[39m },
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   current: { node: [32m'v20.20.0'[39m, npm: [32m'10.8.2'[39m }
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m }
+[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K
+up to date, audited 1211 packages in 7s
+[1G[0K⠇[1G[0K
+[1G[0K⠇[1G[0K161 packages are looking for funding
+[1G[0K⠇[1G[0K  run `npm fund` for details
+[1G[0K⠇[1G[0K
+[31m[1m81[22m[39m vulnerabilities (21 [1mlow[22m, 12 [33m[1mmoderate[22m[39m, 43 [31m[1mhigh[22m[39m, 5 [35m[1mcritical[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues possible (including breaking changes), run:
+  npm audit fix --force
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+[1G[0K⠏[1G[0K
+> goat-bot-v2@1.5.35 start
+> set NODE_ENV=&& node index.js
+
+[1G[0KTypeError: utils.compareVersion is not a function
+    at [90m/home/runner/workspace/[39mGoat.js:215:19
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m

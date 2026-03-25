@@ -1,0 +1,372 @@
+[1G[0K⠙[1G[0K[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m Unsupported engine {
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   package: [32m'goat-bot-v2@1.5.35'[39m,
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   required: { node: [32m'16.x'[39m, npm: [32m'>=7.0.0'[39m },
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   current: { node: [32m'v20.20.0'[39m, npm: [32m'10.8.2'[39m }
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m }
+[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K
+up to date, audited 1211 packages in 2s
+[1G[0K⠧[1G[0K
+[1G[0K⠧[1G[0K161 packages are looking for funding
+[1G[0K⠧[1G[0K  run `npm fund` for details
+[1G[0K⠧[1G[0K
+[31m[1m81[22m[39m vulnerabilities (21 [1mlow[22m, 12 [33m[1mmoderate[22m[39m, 43 [31m[1mhigh[22m[39m, 5 [35m[1mcritical[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues possible (including breaking changes), run:
+  npm audit fix --force
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+[1G[0K⠇[1G[0K
+> goat-bot-v2@1.5.35 start
+> set NODE_ENV=&& node index.js
+
+[1G[0K]2;Goat Bot V2 - Made by NTKhang\[38;2;245;175;25m─[39m[38;2;245;172;25m─[39m[38;2;245;169;25m─[39m[38;2;245;165;24m─[39m[38;2;245;162;24m─[39m[38;2;245;159;24m─[39m[38;2;244;156;24m─[39m[38;2;244;152;24m─[39m[38;2;244;149;23m─[39m[38;2;244;146;23m─[39m[38;2;244;143;23m─[39m[38;2;244;139;23m─[39m[38;2;244;136;23m─[39m[38;2;244;133;23m─[39m[38;2;244;130;22m─[39m[38;2;244;126;22m─[39m[38;2;243;123;22m─[39m[38;2;243;120;22m─[39m[38;2;243;117;22m─[39m[38;2;243;113;21m─[39m[38;2;243;110;21m─[39m[38;2;243;107;21m─[39m[38;2;243;104;21m─[39m[38;2;243;101;21m─[39m[38;2;243;97;20m─[39m[38;2;243;94;20m─[39m[38;2;243;91;20m─[39m[38;2;242;88;20m─[39m[38;2;242;84;20m─[39m[38;2;242;81;19m─[39m[38;2;242;78;19m─[39m[38;2;242;75;19m─[39m[38;2;242;71;19m─[39m[38;2;242;68;19m─[39m[38;2;242;65;19m─[39m[38;2;242;62;18m─[39m[38;2;242;58;18m─[39m[38;2;241;55;18m─[39m[38;2;241;52;18m─[39m[38;2;241;49;18m─[39m[38;2;241;45;17m─[39m[38;2;241;42;17m─[39m[38;2;241;39;17m─[39m
+
+   [38;2;250;139;255m█[39m[38;2;233;145;255m▀[39m[38;2;216;151;255m▀[39m [38;2;198;157;255m█[39m[38;2;181;163;255m▀[39m[38;2;164;169;255m█[39m [38;2;147;175;255m▄[39m[38;2;129;180;255m▀[39m[38;2;112;186;255m█[39m [38;2;95;192;255m▀[39m[38;2;78;198;255m█[39m[38;2;60;204;255m▀[39m  [38;2;43;210;255m█[39m[38;2;43;213;246m▄[39m[38;2;43;217;237m▄[39m [38;2;43;220;228m█[39m[38;2;43;224;218m▀[39m[38;2;43;227;209m█[39m [38;2;43;231;200m▀[39m[38;2;43;234;191m█[39m[38;2;43;238;182m▀[39m  [38;2;43;241;173m█[39m[38;2;43;245;163m░[39m[38;2;43;248;154m█[39m [38;2;43;252;145m▀[39m[38;2;43;255;136m█[39m    
+   [38;2;250;139;255m█[39m[38;2;233;145;255m▄[39m[38;2;216;151;255m█[39m [38;2;198;157;255m█[39m[38;2;181;163;255m▄[39m[38;2;164;169;255m█[39m [38;2;147;175;255m█[39m[38;2;129;180;255m▀[39m[38;2;112;186;255m█[39m [38;2;95;192;255m░[39m[38;2;78;198;255m█[39m[38;2;60;204;255m░[39m  [38;2;43;210;255m█[39m[38;2;43;213;246m▄[39m[38;2;43;217;237m█[39m [38;2;43;220;228m█[39m[38;2;43;224;218m▄[39m[38;2;43;227;209m█[39m [38;2;43;231;200m░[39m[38;2;43;234;191m█[39m[38;2;43;238;182m░[39m  [38;2;43;241;173m▀[39m[38;2;43;245;163m▄[39m[38;2;43;248;154m▀[39m [38;2;43;252;145m█[39m[38;2;43;255;136m▄[39m    
+   [38;2;159;152;232mG[39m[38;2;160;155;231mo[39m[38;2;160;158;230ma[39m[38;2;161;161;230mt[39m[38;2;161;165;229mB[39m[38;2;162;168;228mo[39m[38;2;162;171;227mt[39m [38;2;163;174;226mV[39m[38;2;163;177;225m2[39m[38;2;164;180;225m@[39m[38;2;164;183;224m1[39m[38;2;165;186;223m.[39m[38;2;165;190;222m5[39m[38;2;166;193;221m.[39m[38;2;166;196;220m3[39m[38;2;167;199;220m5[39m[38;2;168;202;219m-[39m [38;2;168;205;218mA[39m [38;2;169;208;217ms[39m[38;2;169;212;216mi[39m[38;2;170;215;215mm[39m[38;2;170;218;215mp[39m[38;2;171;221;214ml[39m[38;2;171;224;213me[39m [38;2;172;227;212mB[39m[38;2;172;230;211mo[39m[38;2;173;233;210mt[39m [38;2;173;237;210mc[39m[38;2;174;240;209mh[39m[38;2;174;243;208ma[39m[38;2;175;246;207mt[39m    
+      [38;2;159;152;232mm[39m[38;2;160;156;231me[39m[38;2;160;159;230ms[39m[38;2;161;163;229ms[39m[38;2;161;166;228me[39m[38;2;162;170;227mn[39m[38;2;163;174;226mg[39m[38;2;163;177;225me[39m[38;2;164;181;224mr[39m [38;2;165;185;223mu[39m[38;2;165;188;222ms[39m[38;2;166;192;221me[39m [38;2;166;195;220mp[39m[38;2;167;199;220me[39m[38;2;168;203;219mr[39m[38;2;168;206;218ms[39m[38;2;169;210;217mo[39m[38;2;169;213;216mn[39m[38;2;170;217;215ma[39m[38;2;171;221;214ml[39m [38;2;171;224;213ma[39m[38;2;172;228;212mc[39m[38;2;173;232;211mc[39m[38;2;173;235;210mo[39m[38;2;174;239;209mu[39m[38;2;174;242;208mn[39m[38;2;175;246;207mt[39m       
+         [38;2;159;152;232mC[39m[38;2;160;157;231mr[39m[38;2;161;161;230me[39m[38;2;161;166;228ma[39m[38;2;162;171;227mt[39m[38;2;163;176;226me[39m[38;2;164;180;225md[39m [38;2;165;185;223mb[39m[38;2;165;190;222my[39m [38;2;166;194;221mN[39m[38;2;167;199;220mT[39m[38;2;168;204;218mK[39m[38;2;169;208;217mh[39m[38;2;169;213;216ma[39m[38;2;170;218;215mn[39m[38;2;171;223;213mg[39m [38;2;172;227;212mw[39m[38;2;173;232;211mi[39m[38;2;173;237;210mt[39m[38;2;174;241;208mh[39m [38;2;175;246;207m♡[39m         
+[38;2;159;152;232mS[39m[38;2;159;154;232mo[39m[38;2;160;156;231mu[39m[38;2;160;158;231mr[39m[38;2;160;160;230mc[39m[38;2;161;161;230me[39m [38;2;161;163;229mc[39m[38;2;161;165;229mo[39m[38;2;162;167;228md[39m[38;2;162;169;228me[39m[38;2;162;171;227m:[39m [38;2;163;173;227mh[39m[38;2;163;175;226mt[39m[38;2;163;176;226mt[39m[38;2;163;178;225mp[39m[38;2;164;180;225ms[39m[38;2;164;182;224m:[39m[38;2;164;184;224m/[39m[38;2;165;186;223m/[39m[38;2;165;188;223mg[39m[38;2;165;190;222mi[39m[38;2;166;191;222mt[39m[38;2;166;193;221mh[39m[38;2;166;195;221mu[39m[38;2;167;197;220mb[39m[38;2;167;199;220m.[39m[38;2;167;201;219mc[39m[38;2;168;203;219mo[39m[38;2;168;205;218mm[39m[38;2;168;207;218m/[39m[38;2;169;208;217mn[39m[38;2;169;210;217mt[39m[38;2;169;212;216mk[39m[38;2;170;214;216mh[39m[38;2;170;216;215ma[39m[38;2;170;218;215mn[39m[38;2;171;220;214mg[39m[38;2;171;222;214m0[39m[38;2;171;223;213m3[39m[38;2;171;225;213m/[39m[38;2;172;227;212mG[39m[38;2;172;229;212mo[39m[38;2;172;231;211ma[39m[38;2;173;233;211mt[39m[38;2;173;235;210m-[39m[38;2;173;237;210mB[39m[38;2;174;238;209mo[39m[38;2;174;240;209mt[39m[38;2;174;242;208m-[39m[38;2;175;244;208mV[39m[38;2;175;246;207m2[39m
+  [38;2;245;175;25mA[39m[38;2;245;171;25mL[39m[38;2;245;167;25mL[39m [38;2;245;162;24mV[39m[38;2;245;158;24mE[39m[38;2;244;154;24mR[39m[38;2;244;150;24mS[39m[38;2;244;145;23mI[39m[38;2;244;141;23mO[39m[38;2;244;137;23mN[39m[38;2;244;133;23mS[39m [38;2;244;128;22mN[39m[38;2;244;124;22mO[39m[38;2;243;120;22mT[39m [38;2;243;116;22mR[39m[38;2;243;111;21mE[39m[38;2;243;107;21mL[39m[38;2;243;103;21mE[39m[38;2;243;99;21mA[39m[38;2;243;94;20mS[39m[38;2;243;90;20mE[39m[38;2;242;86;20mD[39m [38;2;242;82;20mH[39m[38;2;242;77;19mE[39m[38;2;242;73;19mR[39m[38;2;242;69;19mE[39m [38;2;242;65;19mA[39m[38;2;242;60;18mR[39m[38;2;242;56;18mE[39m [38;2;241;52;18mF[39m[38;2;241;48;18mA[39m[38;2;241;43;17mK[39m[38;2;241;39;17mE[39m  
+[38;2;245;171;0m──────────── START LOGGING IN ────────────[0m
+[90m23:16:39 23/03/2026[0m [92m LOGIN FACEBOOK:[0m Login in progress
+[?25l[36m⠋[39m Login with cookie array[1G[36m⠙[39m Login with cookie array[1G[36m⠹[39m Login with cookie array[1G[36m⠸[39m Login with cookie array[1G[36m⠼[39m Login with cookie array[1G[36m⠴[39m Login with cookie array[1G[36m⠦[39m Login with cookie array[1G[36m⠧[39m Login with cookie array[1G[36m⠇[39m Login with cookie array[1G[36m⠏[39m Login with cookie array[1G[36m⠋[39m Login with cookie array[1G[36m⠙[39m Login with cookie array[1G[36m⠹[39m Login with cookie array[90m23:16:40 23/03/2026[0m [93m LOGIN FACEBOOK:[0m Cookie live check failed, attempting login anyway...
+dhoner-fca
+Developed and maintained by NeoKEX
+GitHub: https://github.com/NeoKEX
+npm: https://www.npmjs.com/package/dhoner-fca
+[16:16:40] dhoner-fca VERSION dhoner-fca v1.1.0
+[16:16:40] dhoner-fca STARTUP Initializing...
+[16:16:40] dhoner-fca LOG Logging in...
+[16:16:40] dhoner-fca LOG Using desktop persona with browser: Google Chrome
+[16:16:40] dhoner-fca LOG Cookies set for facebook.com and messenger.com domains
+[1G[36m⠸[39m Login with cookie array[1G[36m⠼[39m Login with cookie array[1G[36m⠴[39m Login with cookie array[1G[36m⠦[39m Login with cookie array[16:16:40] dhoner-fca UPDATE You are using the latest version.
+[1G[36m⠧[39m Login with cookie array[1G[36m⠇[39m Login with cookie array[1G[36m⠏[39m Login with cookie array[1G[36m⠋[39m Login with cookie array[1G[36m⠙[39m Login with cookie array[1G[36m⠹[39m Login with cookie array[1G[36m⠸[39m Login with cookie array[1G[36m⠼[39m Login with cookie array[1G[36m⠴[39m Login with cookie array[1G[36m⠦[39m Login with cookie array[1G[36m⠧[39m Login with cookie array[1G[36m⠇[39m Login with cookie array[1G[36m⠏[39m Login with cookie array[1G[36m⠋[39m Login with cookie array[1G[36m⠙[39m Login with cookie array[1G[36m⠹[39m Login with cookie array[1G[36m⠸[39m Login with cookie array[1G[36m⠼[39m Login with cookie array[1G[36m⠴[39m Login with cookie array[1G[36m⠦[39m Login with cookie array[1G[36m⠧[39m Login with cookie array[1G[36m⠇[39m Login with cookie array[1G[36m⠏[39m Login with cookie array[1G[36m⠋[39m Login with cookie array[1G[36m⠙[39m Login with cookie array[1G[36m⠹[39m Login with cookie array[1G[36m⠸[39m Login with cookie array[1G[36m⠼[39m Login with cookie array[1G[36m⠴[39m Login with cookie array[1G[36m⠦[39m Login with cookie array[1G[36m⠧[39m Login with cookie array[1G[36m⠇[39m Login with cookie array[1G[36m⠏[39m Login with cookie array[1G[36m⠋[39m Login with cookie array[1G[36m⠙[39m Login with cookie array[16:16:43] dhoner-fca LOG Detected Facebook region: PRN
+[1G[36m⠹[39m Login with cookie array[1G[36m⠸[39m Login with cookie array[16:16:43] dhoner-fca LOG Created new appstate backup for user 61551908307733
+[16:16:43] dhoner-fca LOG Created new cookie backup for user 61551908307733
+[16:16:43] dhoner-fca LOG AppState backup stored successfully
+[16:16:43] dhoner-fca LOG MQTT PostSafe guard installed for anti-automation detection
+[16:16:43] dhoner-fca LOG Database methods initialized
+[16:16:43] dhoner-fca LOG AutoReLogin Auto re-login enabled with stored credentials
+[16:16:43] dhoner-fca LOG TokenRefresh Auto-refresh scheduled in 53904225ms
+[16:16:43] dhoner-fca LOG AutoReLogin Session monitoring started (interval: 7200000ms)
+[16:16:43] dhoner-fca LOG AutoReLogin Session monitoring started
+[2K[1G[?25h[90m23:16:43 23/03/2026[0m [93m REFRESH COOKIE:[0m You have enabled the auto refresh cookie mode, but you have not configured email and password in the file config.json
+[?25h[90m23:16:43 23/03/2026[0m [92m LOGIN FACEBOOK:[0m Successful login
+[38;2;245;171;0m──────────────── BOT INFO ────────────────[0m
+[90m23:16:43 23/03/2026[0m [92m NODE VERSION:[0m v20.20.0
+[90m23:16:43 23/03/2026[0m [92m PROJECT VERSION:[0m 1.5.35
+[16:16:43] dhoner-fca LOG Database synchronized successfully
+[90m23:16:43 23/03/2026[0m [92m BOT ID:[0m 61551908307733 - null
+[90m23:16:43 23/03/2026[0m [92m PREFIX:[0m /
+[90m23:16:43 23/03/2026[0m [92m LANGUAGE:[0m en
+[90m23:16:43 23/03/2026[0m [92m BOT NICK NAME:[0m GoatBot
+[90m23:16:44 23/03/2026[0m [92m REFRESH FBSTATE:[0m Refreshed account.txt file
+[38;2;245;171;0m──────────────── DATABASE ────────────────[39m
+[?25l[36m⠋[39m Connecting a SQLITE database[2K[1G[?25h[90m23:16:44 23/03/2026[0m [92m SQLITE:[0m Successfully connected SQLITE database!
+[90m23:16:44 23/03/2026[0m [92m DATABASE:[0m Loaded 5 group's data successfully!
+[90m23:16:44 23/03/2026[0m [92m DATABASE:[0m Loaded 16 user's data successfully!
+[38;2;245;171;0m────────────── LOAD COMMANDS ──────────────[0m
+[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m1[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m2[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m3[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m4[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m5[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m6[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m7[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m8[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m9[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m10[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m11[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m12[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m13[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m14[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m15[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m16[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m17[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m18[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m19[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m20[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m21[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m22[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m23[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m24[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m25[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m26[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m27[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m28[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m29[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m30[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m31[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m32[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m33[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m34[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m35[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m36[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m37[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m38[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m39[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m40[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m41[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m42[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m43[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m44[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m45[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m46[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m47[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m48[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m49[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m50[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m51[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m52[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m53[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m54[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m55[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m56[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m57[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m58[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m59[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m60[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m61[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m62[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m63[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m64[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m65[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m66[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m67[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m68[0m
+[38;2;245;171;0m─────────── LOAD COMMANDS EVENT ───────────[0m
+[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m1[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m2[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m3[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m4[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m5[0m[90m23:16:44 23/03/2026[0m [92m LOADED:[0m [32m6[0m
+[38;2;245;171;0m───────────────────────────────────────────[0m
+[90m23:16:44 23/03/2026[0m [38;2;235;103;52m ADMINBOT:[0m [1] 100075163264087 | ナ ᴊ　ᴏ　ʏ
+[90m23:16:44 23/03/2026[0m [38;2;235;103;52m NOTIFICATION:[0m Currently there are some thieves who are editing the copyright of the source code and distributing it.
+[!] The source code should only be downloaded from the official github page: https://github.com/ntkhang03/Goat-Bot-V2
+[!] Thank you for using the project. Project created by ntkhang03 (https://github.com/ntkhang03)
+[90m23:16:44 23/03/2026[0m [38;2;235;103;52m SUCCESS:[0m Launch bot successfully, start receiving messages from users
+[90m23:16:44 23/03/2026[0m [38;2;235;103;52m LOAD TIME:[0m 7s
+[38;2;245;171;0m──────────────── COPYRIGHT ────────────────[0m
+[1m[33mCOPYRIGHT:[0m[1m[37m [0m[1m[36mProject GoatBot v2 created by ntkhang03 (https://github.com/ntkhang03), please do not sell this source code or claim it as your own. Thank you![0m
+[38;2;245;171;0m───────────────────────────────────────────[0m
+[16:16:44] dhoner-fca LOG MQTT Auto-cycle scheduled: 1547258ms
+[16:16:44] dhoner-fca LOG MQTT getSeqID call
+[16:16:44] dhoner-fca LOG MQTT Getting sequence ID...
+[16:16:46] dhoner-fca LOG MQTT getSeqID ok -> listenMqtt()
+[16:16:46] dhoner-fca LOG Connecting to MQTT... wss://edge-chat.facebook.com/chat?region=cln&sid=3669782506542768&cid=79709628-995d-4341-a212-43587298f2e6
+[16:16:46] dhoner-fca LOG MQTT getSeqID done
+[16:16:47] dhoner-fca LOG MQTT connected successfully
+[32mMESSAGE:[0m [90m{
+[0m  type: [32m"message"[0m[90m,[0m
+  senderID: [32m"100075163264087"[0m[90m,[0m
+  body: [32m"."[0m[90m,[0m
+  threadID: [32m"1766483984043976"[0m[90m,[0m
+  messageID: [32m"mid.$gAAZGm5pez8ijTMG0emdG3xqTyYIG"[0m[90m,[0m
+  offlineThreadingId: [32m"7441880739517923846"[0m[90m,[0m
+  attachments: [][90m,[0m
+  mentions: {}[90m,[0m
+  timestamp: [32m"1774282632314"[0m[90m,[0m
+  isGroup: [33mtrue[0m[90m,[0m
+  participantIDs: [32m"Array(11)"[0m[90m,[0m
+  messageReply: [33mnull[0m
+[90m}[0m
+[32mMESSAGE:[0m [90m{
+[0m  type: [32m"message"[0m[90m,[0m
+  senderID: [32m"100075163264087"[0m[90m,[0m
+  body: [32m". Pfp"[0m[90m,[0m
+  threadID: [32m"1766483984043976"[0m[90m,[0m
+  messageID: [32m"mid.$gAAZGm5pez8ijTMHfwGdG3yVrmNXB"[0m[90m,[0m
+  offlineThreadingId: [32m"7441880786088285633"[0m[90m,[0m
+  attachments: [][90m,[0m
+  mentions: {}[90m,[0m
+  timestamp: [32m"1774282643392"[0m[90m,[0m
+  isGroup: [33mtrue[0m[90m,[0m
+  participantIDs: [32m"Array(11)"[0m[90m,[0m
+  messageReply: [33mnull[0m
+[90m}[0m
+[90m23:17:29 23/03/2026[0m [92m CALL COMMAND:[0m profile | ナ ᴊ　ᴏ　ʏ | 100075163264087 | 1766483984043976 | 
+[32mMESSAGE_REPLY:[0m [90m{
+[0m  type: [32m"message_reply"[0m[90m,[0m
+  threadID: [32m"1766483984043976"[0m[90m,[0m
+  messageID: [32m"mid.$gAAZGm5pez8ijTMOoKmdG35Zmk3FY"[0m[90m,[0m
+  senderID: [32m"61582401346521"[0m[90m,[0m
+  attachments: [][90m,[0m
+  body: [32m"🙂"[0m[90m,[0m
+  isGroup: [33mtrue[0m[90m,[0m
+  mentions: {}[90m,[0m
+  timestamp: [33m1774282760234[0m[90m,[0m
+  participantIDs: [32m"Array(11)"[0m[90m,[0m
+  messageReply: [90m{
+[0m    threadID: [32m"1766483984043976"[0m[90m,[0m
+    messageID: [32m"mid.$gAAZGm5pez8ijTMH1wWdG3yeAxi4r"[0m[90m,[0m
+    senderID: [32m"61551908307733"[0m[90m,[0m
+    attachments: [90m[
+[0m      [90m{
+[0m        type: [32m"photo"[0m[90m,[0m
+        ID: [32m"1287318866661397"[0m[90m,[0m
+        filename: [32m"image-1287318866661397"[0m[90m,[0m
+        fullFileName: [90mundefined[0m[90m,[0m
+        fileSize: [33m241169[0m[90m,[0m
+        original_extension: [32m"png"[0m[90m,[0m
+        mimeType: [90mundefined[0m[90m,[0m
+        thumbnailUrl: [32m"https://scontent.xx.fbcdn.net/v/t1.15752-9/654227976_953442393810071_7209246700954173657_n.png?stp=cp0_dst-png_s64x64&_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeH3P_fxZ1FpIHMMJTL7vfGlbOM8f95WfVNs4zx_3lZ9U4oOnl2j7dganBSQV_fkSXBOI9p-INWin9H8m7tDeFXC&_nc_ohc=cfweP6D_f5wQ7kNvwG0t3O8&_nc_oc=Adp4R1AtTX3oNmoXNexiC0JJNPxljIjPjEy--o88TJT1d5UNyDceV4x7kLBjMuiV2EE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_ss=7a32e&oh=03_Q7cD4wHTC0_XpCLiL-idrVQ56f0mIUUrIZ10o1kVjzbZCPTVQA&oe=69E8E1F5"[0m[90m,[0m
+        previewUrl: [32m"https://scontent.xx.fbcdn.net/v/t1.15752-9/654227976_953442393810071_7209246700954173657_n.png?stp=dst-png_p280x280&_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeH3P_fxZ1FpIHMMJTL7vfGlbOM8f95WfVNs4zx_3lZ9U4oOnl2j7dganBSQV_fkSXBOI9p-INWin9H8m7tDeFXC&_nc_ohc=cfweP6D_f5wQ7kNvwG0t3O8&_nc_oc=Adp4R1AtTX3oNmoXNexiC0JJNPxljIjPjEy--o88TJT1d5UNyDceV4x7kLBjMuiV2EE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_ss=7a32e&oh=03_Q7cD4wHbGT-8I6JQ3sRvjahN3WcPiFSoaKDItJltFj1J6SD5iw&oe=69E8E1F5"[0m[90m,[0m
+        previewWidth: [33m747[0m[90m,[0m
+        previewHeight: [33m280[0m[90m,[0m
+        largePreviewUrl: [32m"https://scontent.xx.fbcdn.net/v/t1.15752-9/654227976_953442393810071_7209246700954173657_n.png?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeH3P_fxZ1FpIHMMJTL7vfGlbOM8f95WfVNs4zx_3lZ9U4oOnl2j7dganBSQV_fkSXBOI9p-INWin9H8m7tDeFXC&_nc_ohc=cfweP6D_f5wQ7kNvwG0t3O8&_nc_oc=Adp4R1AtTX3oNmoXNexiC0JJNPxljIjPjEy--o88TJT1d5UNyDceV4x7kLBjMuiV2EE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_ss=7a32e&oh=03_Q7cD4wHUa11dvhhhEWaVY4xdJHIzklN7qJHlrgxHJLwjqnHu2g&oe=69E8E1F5"[0m[90m,[0m
+        largePreviewWidth: [33m1200[0m[90m,[0m
+        largePreviewHeight: [33m450[0m[90m,[0m
+        url: [32m"https://scontent.xx.fbcdn.net/v/t1.15752-9/654227976_953442393810071_7209246700954173657_n.png?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeH3P_fxZ1FpIHMMJTL7vfGlbOM8f95WfVNs4zx_3lZ9U4oOnl2j7dganBSQV_fkSXBOI9p-INWin9H8m7tDeFXC&_nc_ohc=cfweP6D_f5wQ7kNvwG0t3O8&_nc_oc=Adp4R1AtTX3oNmoXNexiC0JJNPxljIjPjEy--o88TJT1d5UNyDceV4x7kLBjMuiV2EE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_ss=7a32e&oh=03_Q7cD4wHUa11dvhhhEWaVY4xdJHIzklN7qJHlrgxHJLwjqnHu2g&oe=69E8E1F5"[0m[90m,[0m
+        width: [33m1200[0m[90m,[0m
+        height: [33m450[0m[90m,[0m
+        name: [32m"image-1287318866661397"[0m
+      [90m}[0m
+    [90m][0m[90m,[0m
+    body: [32m"✨ Premium ID Card for ナ ᴊ　ᴏ　ʏ"[0m[90m,[0m
+    isGroup: [33mtrue[0m[90m,[0m
+    mentions: {}[90m,[0m
+    timestamp: [33m1774282649025[0m[90m,[0m
+    participantIDs: []
+  [90m}[0m
+[90m}[0m
+[32mMESSAGE:[0m [90m{
+[0m  type: [32m"message"[0m[90m,[0m
+  senderID: [32m"61582401346521"[0m[90m,[0m
+  body: [32m"/setqr 🤕"[0m[90m,[0m
+  threadID: [32m"1766483984043976"[0m[90m,[0m
+  messageID: [32m"mid.$gAAZGm5pez8ijTMPN-2dG35-1VOWA"[0m[90m,[0m
+  offlineThreadingId: [32m"7441881311311357312"[0m[90m,[0m
+  attachments: [][90m,[0m
+  mentions: {}[90m,[0m
+  timestamp: [32m"1774282769915"[0m[90m,[0m
+  isGroup: [33mtrue[0m[90m,[0m
+  participantIDs: [32m"Array(11)"[0m[90m,[0m
+  messageReply: [33mnull[0m
+[90m}[0m
+[32mMESSAGE_REPLY:[0m [90m{
+[0m  type: [32m"message_reply"[0m[90m,[0m
+  threadID: [32m"1766483984043976"[0m[90m,[0m
+  messageID: [32m"mid.$gAAZGm5pez8ijTMPmAWdG36V3Jj8G"[0m[90m,[0m
+  senderID: [32m"61586023142112"[0m[90m,[0m
+  attachments: [][90m,[0m
+  body: [32m"✅ | Quick reaction emoji changed to: 🤕"[0m[90m,[0m
+  isGroup: [33mtrue[0m[90m,[0m
+  mentions: {}[90m,[0m
+  timestamp: [33m1774282776065[0m[90m,[0m
+  participantIDs: [32m"Array(11)"[0m[90m,[0m
+  messageReply: [90m{
+[0m    threadID: [32m"1766483984043976"[0m[90m,[0m
+    messageID: [32m"mid.$gAAZGm5pez8ijTMPN-2dG35-1VOWA"[0m[90m,[0m
+    senderID: [32m"61582401346521"[0m[90m,[0m
+    attachments: [][90m,[0m
+    body: [32m"/setqr 🤕"[0m[90m,[0m
+    isGroup: [33mtrue[0m[90m,[0m
+    mentions: {}[90m,[0m
+    timestamp: [33m1774282769915[0m[90m,[0m
+    participantIDs: []
+  [90m}[0m
+[90m}[0m
+[32mMESSAGE:[0m [90m{
+[0m  type: [32m"message"[0m[90m,[0m
+  senderID: [32m"61582401346521"[0m[90m,[0m
+  body: [32m"🤕"[0m[90m,[0m
+  threadID: [32m"1766483984043976"[0m[90m,[0m
+  messageID: [32m"mid.$gAAZGm5pez8ijTMPvKWdG36gwview"[0m[90m,[0m
+  offlineThreadingId: [32m"7441881347741591472"[0m[90m,[0m
+  attachments: [][90m,[0m
+  mentions: {}[90m,[0m
+  timestamp: [32m"1774282778409"[0m[90m,[0m
+  isGroup: [33mtrue[0m[90m,[0m
+  participantIDs: [32m"Array(11)"[0m[90m,[0m
+  messageReply: [33mnull[0m
+[90m}[0m
+[32mMESSAGE:[0m [90m{
+[0m  type: [32m"message"[0m[90m,[0m
+  senderID: [32m"100075163264087"[0m[90m,[0m
+  body: [32m"🤕"[0m[90m,[0m
+  threadID: [32m"1766483984043976"[0m[90m,[0m
+  messageID: [32m"mid.$gAAZGm5pez8ijTMULpmdG3_BdaoUB"[0m[90m,[0m
+  offlineThreadingId: [32m"7441881657728730369"[0m[90m,[0m
+  attachments: [][90m,[0m
+  mentions: {}[90m,[0m
+  timestamp: [32m"1774282851238"[0m[90m,[0m
+  isGroup: [33mtrue[0m[90m,[0m
+  participantIDs: [32m"Array(11)"[0m[90m,[0m
+  messageReply: [33mnull[0m
+[90m}[0m
+[32mMESSAGE:[0m [90m{
+[0m  type: [32m"message"[0m[90m,[0m
+  senderID: [32m"100075163264087"[0m[90m,[0m
+  body: [32m"."[0m[90m,[0m
+  threadID: [32m"1766483984043976"[0m[90m,[0m
+  messageID: [32m"mid.$gAAZGm5pez8ijTMauImdG4Fj6Lurp"[0m[90m,[0m
+  offlineThreadingId: [32m"7441882107035445993"[0m[90m,[0m
+  attachments: [][90m,[0m
+  mentions: {}[90m,[0m
+  timestamp: [32m"1774282958370"[0m[90m,[0m
+  isGroup: [33mtrue[0m[90m,[0m
+  participantIDs: [32m"Array(11)"[0m[90m,[0m
+  messageReply: [33mnull[0m
+[90m}[0m
+[32mMESSAGE:[0m [90m{
+[0m  type: [32m"message"[0m[90m,[0m
+  senderID: [32m"100075163264087"[0m[90m,[0m
+  body: [32m". Help"[0m[90m,[0m
+  threadID: [32m"1766483984043976"[0m[90m,[0m
+  messageID: [32m"mid.$gAAZGm5pez8ijTMbOKWdG4GEIcuON"[0m[90m,[0m
+  offlineThreadingId: [32m"7441882141634519949"[0m[90m,[0m
+  attachments: [][90m,[0m
+  mentions: {}[90m,[0m
+  timestamp: [32m"1774282966569"[0m[90m,[0m
+  isGroup: [33mtrue[0m[90m,[0m
+  participantIDs: [32m"Array(11)"[0m[90m,[0m
+  messageReply: [33mnull[0m
+[90m}[0m
+[32mMESSAGE:[0m [90m{
+[0m  type: [32m"message"[0m[90m,[0m
+  senderID: [32m"100075163264087"[0m[90m,[0m
+  body: [32m". Cmd load all"[0m[90m,[0m
+  threadID: [32m"1766483984043976"[0m[90m,[0m
+  messageID: [32m"mid.$gAAZGm5pez8ijTMcxO2dG4HnCoVKD"[0m[90m,[0m
+  offlineThreadingId: [32m"7441882247837340291"[0m[90m,[0m
+  attachments: [][90m,[0m
+  mentions: {}[90m,[0m
+  timestamp: [32m"1774282991931"[0m[90m,[0m
+  isGroup: [33mtrue[0m[90m,[0m
+  participantIDs: [32m"Array(11)"[0m[90m,[0m
+  messageReply: [33mnull[0m
+[90m}[0m
+[90m23:23:12 23/03/2026[0m [92m CALL COMMAND:[0m cmd | ナ ᴊ　ᴏ　ʏ | 100075163264087 | 1766483984043976 | load all
+[90m23:23:12 23/03/2026[0m [96m CONFIG COMMANDS:[0m Reloaded /configCommands.json
+[32mMESSAGE:[0m [90m{
+[0m  type: [32m"message"[0m[90m,[0m
+  senderID: [32m"100075163264087"[0m[90m,[0m
+  body: [32m"🙂"[0m[90m,[0m
+  threadID: [32m"1766483984043976"[0m[90m,[0m
+  messageID: [32m"mid.$gAAZGm5pez8ijTMdrlGdG4IhiS_5g"[0m[90m,[0m
+  offlineThreadingId: [32m"7441882310645644896"[0m[90m,[0m
+  attachments: [][90m,[0m
+  mentions: {}[90m,[0m
+  timestamp: [32m"1774283006868"[0m[90m,[0m
+  isGroup: [33mtrue[0m[90m,[0m
+  participantIDs: [32m"Array(11)"[0m[90m,[0m
+  messageReply: [33mnull[0m
+[90m}[0m
+[32mMESSAGE:[0m [90m{
+[0m  type: [32m"message"[0m[90m,[0m
+  senderID: [32m"100075163264087"[0m[90m,[0m
+  body: [32m". Cmd loadall"[0m[90m,[0m
+  threadID: [32m"1766483984043976"[0m[90m,[0m
+  messageID: [32m"mid.$gAAZGm5pez8ijTMeYAWdG4JN374zC"[0m[90m,[0m
+  offlineThreadingId: [32m"7441882358253325506"[0m[90m,[0m
+  attachments: [][90m,[0m
+  mentions: {}[90m,[0m
+  timestamp: [32m"1774283018241"[0m[90m,[0m
+  isGroup: [33mtrue[0m[90m,[0m
+  participantIDs: [32m"Array(11)"[0m[90m,[0m
+  messageReply: [33mnull[0m
+[90m}[0m
+[90m23:23:38 23/03/2026[0m [92m CALL COMMAND:[0m cmd | ナ ᴊ　ᴏ　ʏ | 100075163264087 | 1766483984043976 | loadall
+[90m23:23:38 23/03/2026[0m [96m CONFIG COMMANDS:[0m Reloaded /configCommands.json
+[32mMESSAGE:[0m [90m{
+[0m  type: [32m"message"[0m[90m,[0m
+  senderID: [32m"100075163264087"[0m[90m,[0m
+  body: [32m"Goat bot Original repo ta upgrade korba?"[0m[90m,[0m
+  threadID: [32m"1766483984043976"[0m[90m,[0m
+  messageID: [32m"mid.$gAAZGm5pez8ijTMjRo2dG4OHi2bpg"[0m[90m,[0m
+  offlineThreadingId: [32m"7441882695054506592"[0m[90m,[0m
+  attachments: [][90m,[0m
+  mentions: {}[90m,[0m
+  timestamp: [32m"1774283098531"[0m[90m,[0m
+  isGroup: [33mtrue[0m[90m,[0m
+  participantIDs: [32m"Array(11)"[0m[90m,[0m
+  messageReply: [33mnull[0m
+[90m}[0m
+[32mMESSAGE:[0m [90m{
+[0m  type: [32m"message"[0m[90m,[0m
+  senderID: [32m"100075163264087"[0m[90m,[0m
+  body: [32m"Nigga"[0m[90m,[0m
+  threadID: [32m"1766483984043976"[0m[90m,[0m
+  messageID: [32m"mid.$gAAZGm5pez8ijTMlkqWdG4Qafqh1X"[0m[90m,[0m
+  offlineThreadingId: [32m"7441882852841102679"[0m[90m,[0m
+  attachments: [][90m,[0m
+  mentions: {}[90m,[0m
+  timestamp: [32m"1774283136169"[0m[90m,[0m
+  isGroup: [33mtrue[0m[90m,[0m
+  participantIDs: [32m"Array(11)"[0m[90m,[0m
+  messageReply: [33mnull[0m
+[90m}[0m
+[32mMESSAGE_REPLY:[0m [90m{
+[0m  type: [32m"message_reply"[0m[90m,[0m
+  threadID: [32m"1766483984043976"[0m[90m,[0m
+  messageID: [32m"mid.$gAAZGm5pez8ijTNM__2dG43xOKvkt"[0m[90m,[0m
+  senderID: [32m"61582401346521"[0m[90m,[0m
+  attachments: [][90m,[0m
+  body: [32m"Korsilam to"[0m[90m,[0m
+  isGroup: [33mtrue[0m[90m,[0m
+  mentions: {}[90m,[0m
+  timestamp: [33m1774283782143[0m[90m,[0m
+  participantIDs: [32m"Array(11)"[0m[90m,[0m
+  messageReply: [90m{
+[0m    threadID: [32m"1766483984043976"[0m[90m,[0m
+    messageID: [32m"mid.$gAAZGm5pez8ijTMjRo2dG4OHi2bpg"[0m[90m,[0m
+    senderID: [32m"100075163264087"[0m[90m,[0m
+    attachments: [][90m,[0m
+    body: [32m"Goat bot Original repo ta upgrade korba?"[0m[90m,[0m
+    isGroup: [33mtrue[0m[90m,[0m
+    mentions: {}[90m,[0m
+    timestamp: [33m1774283098531[0m[90m,[0m
+    participantIDs: []
+  [90m}[0m
+[90m}[0m
+[32mMESSAGE:[0m [90m{
+[0m  type: [32m"message"[0m[90m,[0m
+  senderID: [32m"100081497756564"[0m[90m,[0m
+  body: [32m"🤕"[0m[90m,[0m
+  threadID: [32m"1766483984043976"[0m[90m,[0m
+  messageID: [32m"mid.$gAAZGm5pez8ijTNPCemdG452TOilR"[0m[90m,[0m
+  offlineThreadingId: [32m"7441885700195756369"[0m[90m,[0m
+  attachments: [][90m,[0m
+  mentions: {}[90m,[0m
+  timestamp: [32m"1774283815546"[0m[90m,[0m
+  isGroup: [33mtrue[0m[90m,[0m
+  participantIDs: [32m"Array(11)"[0m[90m,[0m
+  messageReply: [33mnull[0m
+[90m}[0m
